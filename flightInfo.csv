@@ -1,0 +1,20 @@
+Flight Code,Flight Name,From City,To City,Flight Date,Flight Time,Capacity,Flight Class,Price,Description
+131130,Cathay_Pacific,Tokyo,Istanbul,1/22/2022,1:45:00 AM,85,B,1200,9 hour flight
+131131,Newyork_Flight,Istanbul,Beijing,1/23/2022,2:45:00 AM,100,A,1250,Delayed
+131132,Ethihad_Airways,Osaka,Chicago,1/24/2022,1:45:00 AM,90,A,1100,10 hour flight
+131133,Fly_Dubai,Chicago,Madrid,1/25/2022,1:15:00 AM,99,B,1050,Cancelled
+131134,Turkish_Airlines,Seoul,Kathmandu,1/25/2022,1:45:00 PM,101,B,1100,Cancelled
+131135,Turkish_Airlines,London,Kolkata,1/26/2022,3:45:00 PM,120,A,1200,10 hour flight
+131136,Air_India,Atlanta,Dallas,1/26/2022,5:45:00 AM,80,A,1300,Delayed
+131137,Ethihad_Airways,Kolkata,Paris,1/27/2022,6:45:00 AM,90,A,1000,Delayed
+131130,Cathay_Pacific,Tokyo,Istanbul,1/27/2022,8:00:00 PM,85,B,1205,9 hour flight
+131139,Newyork_Flight,London,Chicago,1/28/2022,1:45:00 AM,110,C,1350,14 hour flight
+131140,Swiss_Airlines,Osaka,Atlanta,2/1/2022,8:00:00 PM,125,A,1500,15 hour flight
+131140,Swiss_Airlines,Osaka,Atlanta,2/2/2022,8:00:00 PM,125,A,1200,15 hour flight
+131142,Katar_Airways,Los Angeles,Bangkok,2/25/2022,1:45:00 AM,112,A,1000,Delayed
+131143,Singapore_Airlines,Los Angeles,Denver,2/20/2022,8:00:00 PM,120,D,1200,Cancelled
+131140,Swiss_Airlines,Osaka,Atlanta,2/10/2022,9:00:00 PM,125,A,1900,15 hour flight
+131145,Singapore_Airlines,Moscow,Dubai,2/15/2022,10:00:00 PM,98,B,1000,Delayed
+131146,Fly_Dubai,Madrid,Kathmandu,2/25/2022,8:00:00 AM,88,A,1200,Cancelled
+131147,Ethihad_Airways,Dallas,Beijing,2/25/2022,1:45:00 AM,90,A,1300,Delayed
+131148,Newyork_Flight,Kathmandu,Moscow,2/26/2022,7:45:00 AM,100,A,1800,10 hour flight
